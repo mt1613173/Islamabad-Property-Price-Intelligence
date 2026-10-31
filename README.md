@@ -203,13 +203,7 @@ Contributions are welcome.
 
 ---
 
-## 👨‍💻 Author
 
-**Ramish Anjum**
-
-Computer Science Student | Full-Stack Developer | AI & Machine Learning Enthusiast
-
----
 
 ## ⭐ Support
 
