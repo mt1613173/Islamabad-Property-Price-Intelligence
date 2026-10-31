@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: radial-gradient(circle at 10% 0%, rgba(20,184,166,.18), transparent 30%),
+              radial-gradient(circle at 90% 0%, rgba(37,99,235,.14), transparent 28%),
+              #f8fafc;
+  color: #0f172a;
+}
+.glass { background: rgba(255,255,255,.78); border: 1px solid rgba(148,163,184,.25); backdrop-filter: blur(18px); }
+.input { width:100%; border:1px solid #cbd5e1; border-radius:14px; padding:12px 14px; background:white; }
+.btn-primary { border-radius:16px; padding:12px 18px; color:white; font-weight:800; background:linear-gradient(135deg,#0f766e,#2563eb); }
+.btn-secondary { border-radius:16px; padding:12px 18px; font-weight:800; border:1px solid #cbd5e1; background:white; }
